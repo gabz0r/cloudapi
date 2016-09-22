@@ -1,0 +1,1 @@
+copy CtrlBusinessLibSdk.dll E:\Projekte\Ctrl

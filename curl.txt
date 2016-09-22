@@ -1,0 +1,5 @@
+curl -d "OPCODE=CLOUD_API_METHOD&TYPE=TestAssemblyClass&METHOD=TestAssemblyMethod#param1=teststring&param2=22" "http://localhost:9091/cloudapi"
+
+curl -d "OPCODE=CLOUD_API_DATA&COLLECTION=TEST&ACTION=CREATE#CDOC={"nille": 12345}" "http://localhost:9091/cloudapi"
+
+curl -d "OPCODE=CLOUD_API_DATA&COLLECTION=TEST&ACTION=UPDATE#UDOC=[{"nille": 12345}, {"testobj": 'hallo'}]" "http://localhost:9091/cloudapi"

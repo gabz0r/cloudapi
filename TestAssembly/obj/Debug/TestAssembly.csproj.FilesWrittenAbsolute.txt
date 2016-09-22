@@ -1,0 +1,5 @@
+/Users/gabriel/Projects/CloudApiHost/TestAssembly/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabriel/Projects/CloudApiHost/TestAssembly/bin/Debug/TestAssembly.dll.mdb
+/Users/gabriel/Projects/CloudApiHost/TestAssembly/bin/Debug/TestAssembly.dll
+/Users/gabriel/Projects/CloudApiHost/TestAssembly/obj/Debug/TestAssembly.dll
+/Users/gabriel/Projects/CloudApiHost/TestAssembly/obj/Debug/TestAssembly.dll.mdb

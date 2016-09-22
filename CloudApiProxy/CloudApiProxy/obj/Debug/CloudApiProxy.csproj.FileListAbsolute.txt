@@ -1,0 +1,6 @@
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\CloudApiProxy\CloudApiProxy\bin\Debug\CloudApiProxy.exe.config
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\CloudApiProxy\CloudApiProxy\bin\Debug\CloudApiProxy.exe
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\CloudApiProxy\CloudApiProxy\bin\Debug\CloudApiProxy.pdb
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\CloudApiProxy\CloudApiProxy\obj\Debug\CloudApiProxy.csprojResolveAssemblyReference.cache
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\CloudApiProxy\CloudApiProxy\obj\Debug\CloudApiProxy.exe
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\CloudApiProxy\CloudApiProxy\obj\Debug\CloudApiProxy.pdb

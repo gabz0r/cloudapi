@@ -1,0 +1,8 @@
+/Users/gabriel/Projects/CloudApiHost/CloudApiLib/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabriel/Projects/CloudApiHost/CloudApiLib/bin/Debug/MongoDB.Bson.dll
+/Users/gabriel/Projects/CloudApiHost/CloudApiLib/bin/Debug/MongoDB.Driver.Core.dll
+/Users/gabriel/Projects/CloudApiHost/CloudApiLib/bin/Debug/MongoDB.Driver.dll
+/Users/gabriel/Projects/CloudApiHost/CloudApiLib/bin/Debug/CloudApiLib.dll.mdb
+/Users/gabriel/Projects/CloudApiHost/CloudApiLib/bin/Debug/CloudApiLib.dll
+/Users/gabriel/Projects/CloudApiHost/CloudApiLib/obj/Debug/CloudApiLib.dll
+/Users/gabriel/Projects/CloudApiHost/CloudApiLib/obj/Debug/CloudApiLib.dll.mdb
